@@ -1,23 +1,11 @@
 ---
-title: Introduction to Java
+title: Introdução e aritmético de ponto flutuante
 ---
 
-Sep 28
-: [Java & Git](#)
+25 de maio
+: [Apresentação da disciplina](https://www.youtube.com/watch?v=jBLnYHBm-MU&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=1)
   : [1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+27 de maio
+: **Section**{: .label .label-purple }[Aritmética de ponto flutuante](#)
+  
