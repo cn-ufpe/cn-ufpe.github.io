@@ -1,13 +1,16 @@
 ---
-title: Basic Data Structures
+title: Raízes de equações
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
+01/06
+: **Section**{: .label .label-purple }[Raízes de equações](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
+: [Método da bisseção](#)
+  : [3.1](#), [2.2](#), [2.3](#)
+
+03/06
+: [Método iterativo linear](#)
   : [Solution](#)
 
 Oct 7
