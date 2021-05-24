@@ -1,5 +1,9 @@
 ---
 timeline:
+  - '7:00 AM'
+  - '7:30 AM'
+  - '8:00 AM'
+  - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -7,25 +11,14 @@ timeline:
   - '11:00 AM'
   - '11:30 AM'
   - '12:00 PM'
-  - '12:30 PM'
-  - '1:00 PM'
-  - '1:30 PM'
-  - '2:00 PM'
-  - '2:30 PM'
-  - '3:00 PM'
-  - '3:30 PM'
-  - '4:00 PM'
-  - '4:30 PM'
-  - '5:00 PM'
-  - '5:30 PM'
 schedule:
   - name: Segunda
   - name: Terça
     events:
-      - name: Assíncrona T2
+      - name: Assíncrona T1, T2 e T4
         start: 7:00 AM
         end: 8:00 AM
-      - name: Síncrona T2
+      - name: Síncrona T1, T2 e T4
         start: 8:00 AM
         end: 10:00 AM
   - name: Quarta
