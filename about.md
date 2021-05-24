@@ -26,25 +26,25 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
 ## Aulas
 
 - As aulas assíncronas serão disponibilizadas na página com o calendário da disciplina e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
-- As aulas síncronas serão realizadas no google meet e google classroom:
+- As aulas síncronas serão realizadas no google meet e google classroom.
   - Turma T1
     - Google classroom: e6z2y6d
-    - Aulas síncronas: https://meet.google.com/lookup/ffi2dfpq2y
+    - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://meet.google.com/lookup/ffi2dfpq2y)
   - Turma T2
     - Google classroom: t3qj26d
-    - Aulas síncronas: https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179
+    - Aulas síncronas: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179)
   - Turma T4
     - Google classroom: c7wxp3p
-    - Aulas síncronas: https://meet.google.com/rhq-dmbi-unt
+    - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt](https://meet.google.com/rhq-dmbi-unt)
   - Turma T6
     - Google classroom: uutl2yv
-    - Aulas síncronas: https://meet.google.com/lookup/d5hhdqdq33
+    - Aulas síncronas: [https://meet.google.com/lookup/d5hhdqdq33](https://meet.google.com/lookup/d5hhdqdq33)
   - Turma T7
-    - Google classroom: bu7zrth
-    - Aulas síncronas: https://meet.google.com/lookup/cdcemwnqmb
+    - Google classroom: vj5zg5b
+    - Aulas síncronas: [https://meet.google.com/sun-vdhp-pqd](https://meet.google.com/sun-vdhp-pqd)
   - Turma T8
     - Google classroom: Osiigxe
-    - Aulas síncronas: https://meet.google.com/eyd-mpvr-roa
+    - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/lookup/cdcemwnqmb)
 
 ## Recursos
 
