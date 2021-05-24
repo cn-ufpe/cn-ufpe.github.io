@@ -23,6 +23,11 @@ schedule:
         start: 8:00 AM
         end: 10:00 AM
         location: T1, T2 e T4
+      - name: Síncrona
+        start: 10:00 AM
+        end: 12:00 PM
+        location: T6, T7 e T8
+
   - name: Quarta
   - name: Quinta
     events:
@@ -32,7 +37,15 @@ schedule:
         location: T1, T2 e T4
       - name: Síncrona
         start: 11:00 AM
-        end: 12:00 AM
+        end: 12:00 PM
         location: T1, T2 e T4
+      - name: Assíncrona
+        start: 07:00 AM
+        end: 09:00 AM
+        location: T6, T7 e T8
+      - name: Síncrona
+        start: 09:00 AM
+        end: 10:00 AM
+        location: T6, T7 e T8
   - name: Sexta
 ---
