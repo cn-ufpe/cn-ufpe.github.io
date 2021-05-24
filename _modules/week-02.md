@@ -4,7 +4,6 @@ title: Raízes de equações
 
 01/06
 : **Section**{: .label .label-purple }[Raízes de equações](https://www.youtube.com/watch?v=HwrXy4iQsSo&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=3&t=322s)
-  :
 
 01/06
 : [Método da bisseção](https://www.youtube.com/watch?v=5wDrXBE0ULc&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=3)
