@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Staff
+title: Equipe
 description: A listing of all the course staff members.
 ---
 
