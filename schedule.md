@@ -4,7 +4,7 @@ title: Schedule
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
+# Programação semanal
 
 {% for schedule in site.schedules %}
 {{ schedule }}
