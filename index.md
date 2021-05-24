@@ -19,4 +19,4 @@ seo:
 
 ## Cálculo numérico
 
-Informações sobre o curso.
+Página da disciplina Cálculo Numérico da UFPE.

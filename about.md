@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre
 description: >-
     Course policies and information.
 ---
@@ -16,18 +16,52 @@ description: >-
 
 ---
 
-## About
+## Sobre
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Os algoritmos numéricos servem como base para diversas tecnologias e estão presentes em nossa vida cotidiana. Existem diversas aplicações dos algoritmos numéricos em engenharia, computação, física, entre outras disciplinas. Por exemplo, os algoritmos de aprendizagem de máquina que realizam reconhecimento de face possuem como base o gradiente descendente, ferramentas de busca na internet utiliza sistemas de equações lineares e para determinar o com-portamento de um sistema a partir de experimentos podemos utilizar a interpolação.
 
-## Lecture
+Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em cursos de matemática contínua como cálculo e álgebra linear. No entanto, nos algoritmos numéricos são utilizados métodos aproximados. Utilizar aproximações facilita a resolução dos problemas e permite resolver diversos problemas de forma algorítmica que não poderiam ser resolvidos de forma analítica.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
 
-## Resources
+## Aulas
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+- As aulas assíncronas serão disponibilizadas na página com o calendário da disciplina e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
+- As aulas síncronas serão realizadas no google meet e google classroom:
+  - Turma T1
+    - Google classroom: e6z2y6d
+    - Aulas síncronas: https://meet.google.com/lookup/ffi2dfpq2y
+  - Turma T2
+    - Google classroom: t3qj26d
+    - Aulas síncronas: https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179
+  - Turma T4
+    - Google classroom: c7wxp3p
+    - Aulas síncronas: https://meet.google.com/rhq-dmbi-unt
+  - Turma T6
+    - Google classroom: uutl2yv
+    - Aulas síncronas: https://meet.google.com/lookup/d5hhdqdq33
+  - Turma T7
+    - Google classroom: bu7zrth
+    - Aulas síncronas: https://meet.google.com/lookup/cdcemwnqmb
+  - Turma T8
+    - Google classroom: Osiigxe
+    - Aulas síncronas: https://meet.google.com/eyd-mpvr-roa
 
-## Assignments
+## Recursos
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+### Referências
+- Ruggiero, Márcia A. Gomes, and Vera Lúcia da Rocha Lopes. Cálculo numérico: aspectos teóricos e computacionais. Makron Books do Brasil, 1997.
+- [Métodos Numéricos](http://www.loja.edufpe.com.br/portal/spring/livro/detalhe/67), José Dias dos Santos & Zanoni Carvalho da Silva, Editora Universitária UFPE, 3ª Edição
+
+### Ambiente de desenvolvimento
+Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
+- Será necessário criar uma conta no [GitHub](www.github.com) para realizar entrega das listas de exercício.
+- IDE [repl.it](https://replit.com/) - login com a conta do github
+- Google Colab - login com o email da UFPE
+
+
+
+## Avaliação
+
+A avaliação da disciplina será dividida em duas partes com mesmo peso:
+- Listas de exercícios (50% da nota)
+- Dois exercícios escolares (50% da nota)
