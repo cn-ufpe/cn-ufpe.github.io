@@ -9,6 +9,8 @@ title: Introdução e aritmético de ponto flutuante
 
 
 27/05
-: [Um erro numérico](https://youtu.be/OdfCscLHBVo) : <a href="https://githubtocolab.com/giswqs/geemap/blob/master/examples/notebooks/35_geemap_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+: [Um erro numérico](https://youtu.be/OdfCscLHBVo) : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/01_numeros.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 : [Aritmética de ponto flutuante](#)
+
+: Lista 1
