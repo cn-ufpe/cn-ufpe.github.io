@@ -18,7 +18,7 @@ description: >-
 
 ## Sobre
 
-Os algoritmos numéricos servem como base para diversas tecnologias e estão presentes em nossa vida cotidiana. Existem diversas aplicações dos algoritmos numéricos em engenharia, computação, física, entre outras disciplinas. Por exemplo, os algoritmos de aprendizagem de máquina que realizam reconhecimento de face possuem como base o gradiente descendente, ferramentas de busca na internet utiliza sistemas de equações lineares e para determinar o com-portamento de um sistema a partir de experimentos podemos utilizar a interpolação.
+Os algoritmos numéricos servem como base para diversas tecnologias e estão presentes em nossa vida cotidiana. Existem diversas aplicações dos algoritmos numéricos em engenharia, computação, física, entre outras disciplinas. Por exemplo, os algoritmos de aprendizagem de máquina que realizam reconhecimento de face possuem como base o gradiente descendente, ferramentas de busca na internet utilizam sistemas de equações lineares e para determinar o comportamento de um sistema a partir de experimentos podemos utilizar a interpolação.
 
 Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em cursos de matemática contínua como cálculo e álgebra linear. No entanto, nos algoritmos numéricos são utilizados métodos aproximados. Utilizar aproximações facilita a resolução dos problemas e permite resolver diversos problemas de forma algorítmica que não poderiam ser resolvidos de forma analítica.
 
