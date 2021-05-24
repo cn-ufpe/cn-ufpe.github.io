@@ -6,11 +6,13 @@ title: Introdução e aritmético de ponto flutuante
 : [Apresentação da disciplina](https://www.youtube.com/watch?v=jBLnYHBm-MU&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=1)
 
 25/05
-: Configuração do ambiente : [Lista 0](https://classroom.github.com/a/k984Wmk8)
+: Configuração do ambiente
+  : [Lista 0](https://classroom.github.com/a/k984Wmk8)
 
 
 27/05
-: [Um erro numérico](https://youtu.be/OdfCscLHBVo) : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/01_numeros.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+: [Um erro numérico](https://youtu.be/OdfCscLHBVo) 
+  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/01_numeros.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 27/05
 : [Aritmética de ponto flutuante](#)
