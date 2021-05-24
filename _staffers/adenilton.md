@@ -3,5 +3,5 @@ name: Adenilton Silva
 role: Instructor
 email: adenilton.silva@ufpe.br
 website: www.cin.ufpe.br/~ajsilva
-photo: adenilton.jpeg
+photo: adenilton-silva.jpeg
 ---
