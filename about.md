@@ -50,7 +50,7 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
 
 ### Referências
 - Ruggiero, Márcia A. Gomes, and Vera Lúcia da Rocha Lopes. Cálculo numérico: aspectos teóricos e computacionais. Makron Books do Brasil, 1997.
-- [Métodos Numéricos](http://www.loja.edufpe.com.br/portal/spring/livro/detalhe/67), José Dias dos Santos & Zanoni Carvalho da Silva, Editora Universitária UFPE, 3ª Edição
+- [Métodos Numéricos](https://www3.ufpe.br/editora/UFPEbooks/Livro_Texto/metodos_numericos/html5.html?page=0), José Dias dos Santos & Zanoni Carvalho da Silva, Editora Universitária UFPE, 3ª Edição
 
 ### Ambiente de desenvolvimento
 Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
