@@ -18,5 +18,5 @@ date: 2021-05-24
   - Google classroom
   - discord.com
 1. Avaliação:
-  - Listas de exercícios (60%)
-  - 2 Provas (40%)
+  - Listas de exercícios (50%)
+  - 2 Provas (50%)
