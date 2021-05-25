@@ -9,6 +9,9 @@ title: Introdução e aritmético de ponto flutuante
 : [Configuração do ambiente](https://youtu.be/KziIvrUVy5I)
   : [Lista 0](https://classroom.github.com/a/k984Wmk8)
 
+25/05
+: Opcional - [repl.it no celular](https://youtu.be/Bf27Kqfhcm8)
+
 
 27/05
 : [Um erro numérico](https://youtu.be/OdfCscLHBVo)
