@@ -18,7 +18,7 @@ title: Introdução e aritmético de ponto flutuante
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/01_numeros.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 27/05
-: [Aritmética de ponto flutuante](https://youtu.be/C-Lf_caEjD8)
+: [Aritmética de ponto flutuante](https://youtu.be/C-Lf_caEjD8) : [síncrona](/material/02_ponto_flutuante.html)
 
 27/05
 : Lista 1
