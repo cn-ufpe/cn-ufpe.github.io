@@ -22,4 +22,4 @@ title: Introdução e aritmético de ponto flutuante
   : [slides](/material/02_ponto_flutuante.pdf), [síncrona](/material/02_ponto_flutuante.html)
 
 27/05
-: Lista 1
+: [Lista 1](https://classroom.github.com/a/_QCNb9F2)
