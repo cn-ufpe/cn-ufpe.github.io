@@ -19,8 +19,8 @@ title: Raízes de equações
 
 10/06
 : [Método de Newton](https://youtu.be/ylgheMAoVso)
-  :
+  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/06_zeros_funcoes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 10/06
 : [Método das secantes](https://youtu.be/6n_-w3gjXDA)
-  :
+  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/07_zeros_funcoes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
