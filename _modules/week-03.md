@@ -2,14 +2,21 @@
 title: Sistemas de equações lineares
 ---
 
-10/06
-: [Sistemas de equações lineares: Sistema Triangular](#)
+15/06
+: [Matrizes com python](https://youtu.be/FgXrDIAlwpk) : [material](/material/08_matrizes.html)
 
 15/06
-: [Sistemas de equações lineares: Eliminação Gaussiana](#)
+: [Sistemas de equações lineares](https://youtu.be/FKPrlNHqwT0)
+
+15/06
+: [Aula síncrona](/material/08_matrizes.html)
 
 17/06
-: [Fatoração LU](#)
+: [Sistemas de equações lineares](#)
 
 22/06
+: [Sistemas de equações lineares
+ Gaus-Seidel, Jacobi](#)
+
+24/06
 : [Fatoração Cholesky](#)
