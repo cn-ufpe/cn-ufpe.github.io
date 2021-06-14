@@ -9,7 +9,7 @@ title: Sistemas de equações lineares
 : [Sistemas de equações lineares](https://youtu.be/FKPrlNHqwT0)
 
 15/06
-: [Aula síncrona](/material/08_matrizes.html)
+: [Aula síncrona](/material/09_eliminacao_gaussiana.html)
 
 17/06
 : [Sistemas de equações lineares](#)
