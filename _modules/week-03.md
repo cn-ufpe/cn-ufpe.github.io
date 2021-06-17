@@ -13,11 +13,16 @@ title: Sistemas de equações lineares
 : [Aula síncrona](/material/09_eliminacao_gaussiana.html)
 
 17/06
-: [Sistemas de equações lineares](#)
+: [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8)
+
+17/06
+: [Aula síncrona](/material/10_pivoteamento.html)
 
 22/06
-: [Sistemas de equações lineares
- Gaus-Seidel, Jacobi](#)
+: [Sistemas de equações lineares Gaus-Seidel e Jacobi](https://youtu.be/3rMYV9gI2UA)
+
+22/06
+: [Convergência e mal condicionamento](https://youtu.be/87pkkBm2exw)
 
 24/06
 : [Fatoração Cholesky](#)
