@@ -26,7 +26,7 @@ title: Sistemas de equações lineares
 : [Convergência e mal condicionamento](https://youtu.be/87pkkBm2exw)
 
 22/06
-: [Aula síncrona]((/material/11_metodos_iterativos.html))
+: [Aula síncrona](/material/11_metodos_iterativos.html)
 
 29/06
 : [Fatoração Cholesky](#)
