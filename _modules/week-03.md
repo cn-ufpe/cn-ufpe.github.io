@@ -36,4 +36,4 @@ title: Sistemas de equações lineares
 
 29/06
 : Síncrona
-  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_Fatoração_LU_e_Cholesky.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_fatoracao.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
