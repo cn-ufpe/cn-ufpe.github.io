@@ -29,4 +29,11 @@ title: Sistemas de equações lineares
 : [Aula síncrona](/material/11_metodos_iterativos.html)
 
 29/06
-: [Fatoração Cholesky](#)
+: [Fatoração LU](https://youtu.be/MG4Ek9niGTA)
+
+29/06
+: [Fatoração Cholesky](https://youtu.be/bXoGSTBlT5M)
+
+29/06
+: Síncrona
+  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_Fatoração_LU_e_Cholesky.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
