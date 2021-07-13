@@ -6,4 +6,4 @@ title: Ajustamento
 : [Ajustamento](https://youtu.be/-f3Oxt1dNEs)
 
 15/07
-: Interpolação
+: [Interpolação](https://youtu.be/vhVfhBO_7-4)
