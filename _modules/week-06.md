@@ -11,4 +11,4 @@ title: Gradiente descendente e integração numérica
 
 03/08
 : [Integração numérica](https://youtu.be/PuoXz6Tlm3o)
-  :[colab](https://colab.research.google.com/drive/1qP3VhjMMyl9kzov8rbtuWVje3ZELC-Za?usp=sharing)
+  : [colab](https://colab.research.google.com/drive/1qP3VhjMMyl9kzov8rbtuWVje3ZELC-Za?usp=sharing)
