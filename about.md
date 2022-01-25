@@ -27,24 +27,24 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
 
 - As aulas assíncronas serão disponibilizadas na página com o calendário da disciplina e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
 - As aulas síncronas serão realizadas no google meet e google classroom.
-  - Turma T1
-    - Google classroom:  
-    - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://meet.google.com/lookup/ffi2dfpq2y)
-  - Turma T2
+  - Turma T1 (ter 8h-10h / qui 10h-12h)
+    - Google classroom: w7c2p3m  
+    - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://classroom.google.com/c/NDU4NDU2MTQ5NDI3?cjc=w7c2p3m)
+  - Turma T2 (ter 8h-10h / qui 10h-12h)
     - Google classroom: 2kv63bn
     - Link do classroom: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://meet.google.com/ipb-fcaf-knz)
-  - Turma T4
+  - Turma T4 (ter 8h-10h / qui 10h-12h)
     - Google classroom:  
-    - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt](https://meet.google.com/rhq-dmbi-unt)
-  - Turma T6
-    - Google classroom: 
-    - Aulas síncronas: [https://meet.google.com/lookup/d5hhdqdq33](https://meet.google.com/lookup/d5hhdqdq33)
-  - Turma T7
+    - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt]( )
+  - Turma T6 (ter 10h-12h / qui 8h-10h)
+    - Google classroom:aspy7do 
+    - Link do Classroom: [https://meet.google.com/lookup/d5hhdqdq33]( https://classroom.google.com/c/NDU4NDU2MTQ5NTcw?cjc=aspy7do)
+  - Turma T7 (ter 10h-12h / qui 8h-10h)
     - Google classroom: p6gtffy
     - Link do classroom: [https://meet.google.com/sun-vdhp-pqd](https://classroom.google.com/c/NDU4NDU0MDAyMDg1?cjc=p6gtffy)
-  - Turma T8
+  - Turma T8 (ter 10h-12h / qui 8h-10h)
     - Google classroom:  
-    - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/lookup/cdcemwnqmb)
+    - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa]( )
 
 ## Recursos
 
