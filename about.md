@@ -40,8 +40,8 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
     - Google classroom: uutl2yv
     - Aulas síncronas: [https://meet.google.com/lookup/d5hhdqdq33](https://meet.google.com/lookup/d5hhdqdq33)
   - Turma T7
-    - Google classroom: vj5zg5b
-    - Aulas síncronas: [https://meet.google.com/sun-vdhp-pqd](https://meet.google.com/sun-vdhp-pqd)
+    - Google classroom: p6gtffy
+    - Link do classroom: [https://meet.google.com/sun-vdhp-pqd](https://classroom.google.com/c/NDU4NDU0MDAyMDg1?cjc=p6gtffy)
   - Turma T8
     - Google classroom: Osiigxe
     - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/lookup/cdcemwnqmb)
