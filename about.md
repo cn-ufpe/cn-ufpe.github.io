@@ -34,8 +34,8 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
     - Google classroom: 2kv63bn
     - Link do classroom: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://classroom.google.com/c/NDU4NDUzNjkzNDQy?cjc=2kv63bn)
   - Turma T4 (ter 8h-10h / qui 10h-12h)
-    - Google classroom:  
-    - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt]( )
+    - Google classroom:sqigzgc 
+    - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt](https://meet.google.com/qze-debr-rcu?authuser=1&pli=1)
   - Turma T6 (ter 10h-12h / qui 8h-10h)
     - Google classroom:aspy7do 
     - Link do Classroom: [https://meet.google.com/lookup/d5hhdqdq33]( https://classroom.google.com/c/NDU4NDU2MTQ5NTcw?cjc=aspy7do)
@@ -43,8 +43,8 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
     - Google classroom: p6gtffy
     - Link do classroom: [https://meet.google.com/sun-vdhp-pqd](https://classroom.google.com/c/NDU4NDU0MDAyMDg1?cjc=p6gtffy)
   - Turma T8 (ter 10h-12h / qui 8h-10h)
-    - Google classroom:  
-    - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa]( )
+    - Google classroom:scnvvmp  
+    - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/fgx-qopm-hfw?authuser=1)
 
 ## Recursos
 
