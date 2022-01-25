@@ -28,22 +28,22 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
 - As aulas assíncronas serão disponibilizadas na página com o calendário da disciplina e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
 - As aulas síncronas serão realizadas no google meet e google classroom.
   - Turma T1
-    - Google classroom: e6z2y6d
+    - Google classroom:  
     - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://meet.google.com/lookup/ffi2dfpq2y)
   - Turma T2
     - Google classroom: 2kv63bn
-    - Aulas síncronas: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://meet.google.com/ipb-fcaf-knz)
+    - Link do classroom: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://meet.google.com/ipb-fcaf-knz)
   - Turma T4
-    - Google classroom: c7wxp3p
+    - Google classroom:  
     - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt](https://meet.google.com/rhq-dmbi-unt)
   - Turma T6
-    - Google classroom: uutl2yv
+    - Google classroom: 
     - Aulas síncronas: [https://meet.google.com/lookup/d5hhdqdq33](https://meet.google.com/lookup/d5hhdqdq33)
   - Turma T7
     - Google classroom: p6gtffy
     - Link do classroom: [https://meet.google.com/sun-vdhp-pqd](https://classroom.google.com/c/NDU4NDU0MDAyMDg1?cjc=p6gtffy)
   - Turma T8
-    - Google classroom: Osiigxe
+    - Google classroom:  
     - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/lookup/cdcemwnqmb)
 
 ## Recursos
@@ -54,10 +54,7 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
 
 ### Ambiente de desenvolvimento
 Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
-- Será necessário criar uma conta no [GitHub](www.github.com) para realizar entrega das listas de exercício.
-- IDE [repl.it](https://replit.com/) - login com a conta do github
-- Google Colab - login com o email da UFPE
-
+- Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar entrega das listas de exercício.
 
 
 ## Avaliação
