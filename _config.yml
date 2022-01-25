@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Cálculo numérico
 tagline: Cálculo Numérico
-description: Site da disciplina Cálculo Numérico - UFPE - 2020.2
+description: Site da disciplina Cálculo Numérico - UFPE - 2021.2
 author: Adenilton Silva
 baseurl: '/' # the subpath of your site, e.g. /blog
 # url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
