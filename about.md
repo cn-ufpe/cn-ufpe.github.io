@@ -31,8 +31,8 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
     - Google classroom: e6z2y6d
     - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://meet.google.com/lookup/ffi2dfpq2y)
   - Turma T2
-    - Google classroom: t3qj26d
-    - Aulas síncronas: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179)
+    - Google classroom: 2kv63bn
+    - Aulas síncronas: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://meet.google.com/ipb-fcaf-knz)
   - Turma T4
     - Google classroom: c7wxp3p
     - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt](https://meet.google.com/rhq-dmbi-unt)
