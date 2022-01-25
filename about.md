@@ -32,7 +32,7 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
     - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://classroom.google.com/c/NDU4NDU2MTQ5NDI3?cjc=w7c2p3m)
   - Turma T2 (ter 8h-10h / qui 10h-12h)
     - Google classroom: 2kv63bn
-    - Link do classroom: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://meet.google.com/ipb-fcaf-knz)
+    - Link do classroom: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://classroom.google.com/c/NDU4NDUzNjkzNDQy?cjc=2kv63bn)
   - Turma T4 (ter 8h-10h / qui 10h-12h)
     - Google classroom:  
     - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt]( )
@@ -54,7 +54,7 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
 
 ### Ambiente de desenvolvimento
 Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
-- Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar entrega das listas de exercício.
+- Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar e entregar as listas de exercício.
 
 
 ## Avaliação
