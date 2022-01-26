@@ -2,6 +2,6 @@
 title: Programação com python
 ---
 
-03/06
-: [Introdução ao python](https://youtu.be/yXdaZLClHGk)
+03/02
+: [Introdução ao python com Matrizes](https://youtu.be/yXdaZLClHGk)
   : [síncrona](/material/00_lista_python.html)
