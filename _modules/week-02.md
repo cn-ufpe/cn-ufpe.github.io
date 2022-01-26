@@ -6,7 +6,7 @@ title: Raízes de equações
 : Raízes de equações](https://www.youtube.com/watch?v=HwrXy4iQsSo&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=3&t=322s)
 
 : [Método da bisseção](https://www.youtube.com/watch?v=5wDrXBE0ULc&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=3)
-  : [síncrona](/material/03_zeros_funcoes.html)
+: [síncrona](/material/03_zeros_funcoes.html)
 
 15/02
 : [Método da falsa posição](https://www.youtube.com/watch?v=6DsPCjCwTUQ&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=4&t=40s)
