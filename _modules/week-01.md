@@ -1,5 +1,5 @@
 ---
-title: Aritmético de ponto flutuante
+title: Aritmética de ponto flutuante
 ---
 
 08/02
