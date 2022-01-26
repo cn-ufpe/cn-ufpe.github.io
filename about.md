@@ -59,6 +59,6 @@ Não será necessário instalar softwares no seu computador pessoal e os recurso
 
 ## Avaliação
 
-A avaliação da disciplina será dividida em duas partes com mesmo peso:
+A avaliação da disciplina será dividida em duas partes com os seguintes pesos:
 - Listas de exercícios (40% da nota)
 - Dois exercícios escolares (60% da nota)
