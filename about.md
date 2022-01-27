@@ -25,7 +25,7 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
 Para prover um maior entendimento dos algoritmos, além da apresentação teórica, a linguagem de programação Python será empregada para implementá-los computacionalmente. Dessa forma, ao longo do curso, os(as) aluno(a)s realizarão atividades de implementação dos diversos algoritmos numéricos.
 
 
-## Aulas
+## Aulas e Dinâmica do Curso
 
 Neste semestre de 2021.2 (jan - maio de 2022) adotaremos uma abordagem com aulas presenciais/remotas (síncronas) e atividades remotas (assínccronas), onde as atividades presenciais ocorrerão de acordo com a liberação e procedimentos da UFPE em face do cenário de pandemia da COVID-19. 
 Conforme decisão tomada pela reitoria da UFPE, [as três semanas inciais de aula serão exclusivamente de atividades remotas (sincronas e assíncronas)](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/ufpe-contara-com-aulas-exclusivamente-remotas-por-tres-semanas-a-partir-do-proximo-dia-31/40615).  
