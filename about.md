@@ -31,7 +31,7 @@ Neste semestre de 2021.2 (jan - maio de 2022) adotaremos uma abordagem com aulas
 Conforme decisão tomada pela reitoria da UFPE, [as três semanas inciais de aula serão exclusivamente de atividades remotas (sincronas e assíncronas)](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/ufpe-contara-com-aulas-exclusivamente-remotas-por-tres-semanas-a-partir-do-proximo-dia-31/40615).  
 O curso adota a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aulas gravadas antes das aulas presenciaiso ou remotas-síncronas de modo que as dúvidas que surgirem possam ser sanadas durante o encontro (presencial ou remoto-síncrono). Além das dúvidas, tais encontros tratarão sobre a implementação computacional dos algoritmos em Python, ou seja, a aplicação dos conceitos vistos no material teórico.    
 -  As aulas assíncronas (gravadas) serão disponibilizadas na página com o calendário da disciplina e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
-- As aulas síncronas serão realizadas no google meet e google classroom de acordo com cada turma.
+- As aulas remotas-síncronas serão realizadas no google meet e google classroom de acordo com cada turma.
   - Turma T1 (ter 8h-10h / qui 10h-12h) - Prof. André Tiba
     - Google classroom: w7c2p3m  
     - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://classroom.google.com/c/NDU4NDU2MTQ5NDI3?cjc=w7c2p3m)
