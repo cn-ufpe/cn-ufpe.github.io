@@ -50,10 +50,12 @@ O curso adotará a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aula
   - Turma T8 (ter 10h-12h / qui 8h-10h) - Profa. Jordana Seixas
     - Google classroom:scnvvmp  
     - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/fgx-qopm-hfw?authuser=1)
-
+    -
+- As aulas presenciais serão realizadas nas dependências da Área II UFPE. 
 ## Recursos
 
 ### Referências
+O curso adota as seguintes refências, mas o(a) estudante é livre para acessar outras.  
 - Ruggiero, Márcia A. Gomes, and Vera Lúcia da Rocha Lopes. Cálculo numérico: aspectos teóricos e computacionais. Makron Books do Brasil, 1997.
 - [Métodos Numéricos](https://www3.ufpe.br/editora/UFPEbooks/Livro_Texto/metodos_numericos/html5.html?page=0), José Dias dos Santos & Zanoni Carvalho da Silva, Editora Universitária UFPE, 3ª Edição
 
@@ -64,7 +66,12 @@ Não será necessário instalar softwares no seu computador pessoal e os recurso
 
 
 ## Avaliação
-
-A avaliação da disciplina será dividida em duas partes com os seguintes pesos:
+O curso utilizará duas unidades avaliativas regulares. A avaliação de cada unidade será composta de duas duas partes com os seguintes pesos:
 - Listas de exercícios (40% da nota)
-- Dois exercícios escolares (60% da nota)
+- Dois exercícios escolares regulares(60% da nota)
+
+Além dos dois exercícios escolares regulares, haverá as seguintes avaliações adicionais, caso necessárias:
+- Exame de Segunda Chamada, que pode ser realizado pelo (a) estudante que não realizou UM dos exercicios escolares regulares, satisfaça os critérios indicados em resolução da UFPE sobre o tema e realize a solicitação dentro do prazo estabelecido. A nota obtida neste exame só substitui o componente exercício escolar regular da unidade correspondente, ou seja, os 60% da nota da unidade. 
+- Exame Final, disponíveis ao aluno(a) que não atinja a  média para aprovação com as notas das duas unidades escolares e satisfaça o critério de nota mínima indicada em resolução da UFPE sobre o tema.
+
+
