@@ -25,6 +25,8 @@ Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em curso
 
 ## Aulas
 
+Neste semestre de 2021.2 (jan a maio de 2022) adotaremos uma abordagem com aulas presenciais/remotas (síncronas) e atividades remotas (assínccronas), onde as atividades presenciais ocorrerão de acordo com a liberação e procedimentos da UFPE em face do cenário de pandemia da COVID-19. 
+Conforme decisão tomada pela reitoria da UFPE, [as três semanas inciais de aula serão exclusivamente de atividades remotas (sincronas e assíncronas)](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/ufpe-contara-com-aulas-exclusivamente-remotas-por-tres-semanas-a-partir-do-proximo-dia-31/40615).  
 - As aulas assíncronas serão disponibilizadas na página com o calendário da disciplina e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
 - As aulas síncronas serão realizadas no google meet e google classroom.
   - Turma T1 (ter 8h-10h / qui 10h-12h)
