@@ -60,6 +60,7 @@ O curso adota a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aulas g
 ### Ambiente de desenvolvimento
 Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
 - Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar e entregar as listas de exercício.
+- Para criar a sua conta, siga este [Tutorial]()
 
 
 ## Avaliação
