@@ -50,7 +50,7 @@ O curso adotará a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aula
   - Turma T8 (ter 10h-12h / qui 8h-10h) - Profa. Jordana Seixas
     - Google classroom:scnvvmp  
     - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/fgx-qopm-hfw?authuser=1)
-    -
+    
 - As aulas presenciais serão realizadas nas dependências da Área II UFPE. 
 ## Recursos
 
