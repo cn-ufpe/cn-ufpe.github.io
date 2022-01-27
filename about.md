@@ -22,29 +22,32 @@ Os algoritmos numéricos servem como base para diversas tecnologias e estão pre
 
 Os conteúdos discutidos em algoritmos numéricos são os mesmos vistos em cursos de matemática contínua como cálculo e álgebra linear. No entanto, nos algoritmos numéricos são utilizados métodos aproximados. Utilizar aproximações facilita a resolução dos problemas e permite resolver diversos problemas de forma algorítmica que não poderiam ser resolvidos de forma analítica.
 
+Para prover um maior entendimento dos algoritmos, além da apresentação teórica, a linguagem de programação Python será empregada para implementá-los computacionalmente. Dessa forma, ao longo do curso, os(as) aluno(a)s realizarão atividades de implementação dos diversos algoritmos numéricos.
+
 
 ## Aulas
 
-Neste semestre de 2021.2 (jan a maio de 2022) adotaremos uma abordagem com aulas presenciais/remotas (síncronas) e atividades remotas (assínccronas), onde as atividades presenciais ocorrerão de acordo com a liberação e procedimentos da UFPE em face do cenário de pandemia da COVID-19. 
+Neste semestre de 2021.2 (jan - maio de 2022) adotaremos uma abordagem com aulas presenciais/remotas (síncronas) e atividades remotas (assínccronas), onde as atividades presenciais ocorrerão de acordo com a liberação e procedimentos da UFPE em face do cenário de pandemia da COVID-19. 
 Conforme decisão tomada pela reitoria da UFPE, [as três semanas inciais de aula serão exclusivamente de atividades remotas (sincronas e assíncronas)](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/ufpe-contara-com-aulas-exclusivamente-remotas-por-tres-semanas-a-partir-do-proximo-dia-31/40615).  
-- As aulas assíncronas serão disponibilizadas na página com o calendário da disciplina e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
-- As aulas síncronas serão realizadas no google meet e google classroom.
-  - Turma T1 (ter 8h-10h / qui 10h-12h)
+O curso adota a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aulas gravadas antes das aulas presenciaiso ou remotas-síncronas de modo que as dúvidas que surgirem possam ser sanadas durante o encontro (presencial ou remoto-síncrono). Além das dúvidas, tais encontros tratará sobre a implementação computacional dos algoritmos em Python, ou seja, a aplicação dos conceitos vistos no material teórico.    
+-  As aulas assíncronas (gravadas) serão disponibilizadas na página com o calendário da disciplina e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
+- As aulas síncronas serão realizadas no google meet e google classroom de acordo com cada turma.
+  - Turma T1 (ter 8h-10h / qui 10h-12h) - Prof. André Tiba
     - Google classroom: w7c2p3m  
     - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://classroom.google.com/c/NDU4NDU2MTQ5NDI3?cjc=w7c2p3m)
-  - Turma T2 (ter 8h-10h / qui 10h-12h)
+  - Turma T2 (ter 8h-10h / qui 10h-12h) - Prof. Andson Balieiro
     - Google classroom: 2kv63bn
     - Link do classroom: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://classroom.google.com/c/NDU4NDUzNjkzNDQy?cjc=2kv63bn)
-  - Turma T4 (ter 8h-10h / qui 10h-12h)
+  - Turma T4 (ter 8h-10h / qui 10h-12h) - Profa. Jordana Seixas
     - Google classroom:sqigzgc 
     - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt](https://meet.google.com/qze-debr-rcu?authuser=1&pli=1)
-  - Turma T6 (ter 10h-12h / qui 8h-10h)
+  - Turma T6 (ter 10h-12h / qui 8h-10h) -  Prof. André Tiba
     - Google classroom:aspy7do 
     - Link do Classroom: [https://meet.google.com/lookup/d5hhdqdq33]( https://classroom.google.com/c/NDU4NDU2MTQ5NTcw?cjc=aspy7do)
-  - Turma T7 (ter 10h-12h / qui 8h-10h)
+  - Turma T7 (ter 10h-12h / qui 8h-10h) - Lucas Farias
     - Google classroom: p6gtffy
     - Link do classroom: [https://meet.google.com/sun-vdhp-pqd](https://classroom.google.com/c/NDU4NDU0MDAyMDg1?cjc=p6gtffy)
-  - Turma T8 (ter 10h-12h / qui 8h-10h)
+  - Turma T8 (ter 10h-12h / qui 8h-10h) - Profa. Jordana Seixas
     - Google classroom:scnvvmp  
     - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/fgx-qopm-hfw?authuser=1)
 
