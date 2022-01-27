@@ -62,7 +62,7 @@ O curso adotará as seguintes referências, mas o(a) estudante é livre para ace
 ### Ambiente de desenvolvimento
 Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
 - Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar e entregar as listas de exercício.
-- Para criar a sua conta, siga este [Tutorial]()
+- Para criar a sua conta, siga este [Tutorial](material/Tutorial-LOP-2021.2.pdf). Atente para a forma de cadastro do nome, o email a ser utilizado e o código da sua turma. 
 
 
 ## Avaliação
