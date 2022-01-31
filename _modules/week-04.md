@@ -2,11 +2,9 @@
 title: Avaliação
 ---
 
-29/06
+10/03
 : Revisão
 
-01/07
+15/03
 : Primeiro exercício escolar
-
-06/07
-: Entrega de resultados e revisão de prova
+ 
