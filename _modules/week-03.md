@@ -2,7 +2,7 @@
 title: Sistemas de equações lineares
 ---
 
-22/02
+22/02 (Aula 01)
 : [Sistemas de equações lineares: Eliminação de Gauss com e sem Pivoteamento](https://youtu.be/FKPrlNHqwT0)
 : [Aula síncrona](/material/09_eliminacao_gaussiana.html)
 
@@ -17,7 +17,7 @@ title: Sistemas de equações lineares
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/10_pivoteamento.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 22/06
-: [Convergência e mal condicionamento](https://youtu.be/87pkkBm2exw)
+: [Sistemas de Equações Lineares: Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw)
 
 22/06
 : [Aula síncrona](/material/11_metodos_iterativos.html)
