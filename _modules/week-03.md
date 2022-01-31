@@ -6,7 +6,7 @@ title: Sistemas de equações lineares
 : [Sistemas de equações lineares: Eliminação de Gauss com e sem Pivoteamento](https://youtu.be/FKPrlNHqwT0)
 : [Aula síncrona](/material/09_eliminacao_gaussiana.html)
 
-: [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8)
+ [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8)
 
 
 17/06
