@@ -8,5 +8,6 @@ title: Apresentação da Disciplina e Programação com python
 03/02 
 : [Introdução ao python](https://youtu.be/yXdaZLClHGk)
   : [síncrona](/material/00_lista_python.html)
-  : [Matrizes com python](https://youtu.be/FgXrDIAlwpk)
-    : [material](/material/08_matrizes.html)
+  
+: [Matrizes com python](https://youtu.be/FgXrDIAlwpk)
+  : [material](/material/08_matrizes.html)
