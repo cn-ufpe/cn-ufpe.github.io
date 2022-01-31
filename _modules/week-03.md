@@ -7,20 +7,16 @@ title: Sistemas de equações lineares
 : [Aula síncrona](/material/09_eliminacao_gaussiana.html)
 
  [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8)
+: [Síncrona](/material/10_pivoteamento.html)
 
-
-17/06
-: [Aula síncrona](/material/10_pivoteamento.html)
-
-22/06
+24/02
 : [Sistemas de equações lineares Gaus-Seidel e Jacobi](https://youtu.be/3rMYV9gI2UA)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/10_pivoteamento.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+  : [Aula síncrona](/material/11_metodos_iterativos.html)
 
-22/06
+03/03
 : [Sistemas de Equações Lineares: Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw)
 
-22/06
-: [Aula síncrona](/material/11_metodos_iterativos.html)
 
 08/03
 : [Fatoração LU](https://youtu.be/MG4Ek9niGTA) e [Cholesky](https://youtu.be/bXoGSTBlT5M) 
