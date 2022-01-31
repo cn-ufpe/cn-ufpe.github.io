@@ -20,8 +20,7 @@ title: Sistemas de equações lineares
 
 08/03
 : [Fatoração LU](https://youtu.be/MG4Ek9niGTA) e [Cholesky](https://youtu.be/bXoGSTBlT5M) 
-: [Aula Síncrona]
-<a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_fatoracao.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+: [Aula Síncrona]: <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_fatoracao.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 
 10/03
