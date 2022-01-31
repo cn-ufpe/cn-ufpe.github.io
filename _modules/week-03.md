@@ -3,7 +3,7 @@ title: Sistemas de equações lineares
 ---
 
 22/02
-: [Sistemas de equações lineares: Eliminação de Gauss](https://youtu.be/FKPrlNHqwT0)
+: [Sistemas de equações lineares: Eliminação de Gauss c/ e s/ Pivoteamento](https://youtu.be/FKPrlNHqwT0)
 
 15/06
 : [Aula síncrona](/material/09_eliminacao_gaussiana.html)
