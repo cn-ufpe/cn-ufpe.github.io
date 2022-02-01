@@ -13,10 +13,10 @@ date: 2021-05-24
   - Recomendamos ligar a câmera nas aulas síncronas (não é obrigatório)
 1. As aulas assíncronas serão disponibilizadas [neste canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD).
 1. Recursos utilizados durante o curso:
-  - github.com para entrega de exercícios. Você deve criar uma conta no github na primeira aula.
+  -  Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar e entregar as listas de exercício..
   - colab.research.google.com utilizado durante as aulas
   - Google classroom
   - discord.com
 1. Avaliação:
-  - Listas de exercícios (50%)
-  - 2 Provas (50%)
+  - Listas de exercícios (40%)
+  - 2 Provas (60%)
