@@ -68,7 +68,7 @@ Não será necessário instalar softwares no seu computador pessoal e os recurso
 ## Avaliação
 O curso utilizará duas unidades avaliativas regulares. A avaliação de cada unidade será composta de duas duas partes com os seguintes pesos:
 - Listas de exercícios (40% da nota)
-- Dois exercícios escolares regulares(60% da nota)
+- Exercício escolar regular (60% da nota)
 
 Além dos dois exercícios escolares regulares, haverá as seguintes avaliações adicionais, caso sejam necessárias:
 - Exame de Segunda Chamada, que pode ser realizado pelo (a) estudante que não realizou UM dos exercicios escolares regulares, satisfaça os critérios indicados em resolução da UFPE sobre o tema e realize a solicitação dentro do prazo estabelecido. A nota obtida neste exame só substitui o componente exercício escolar regular da unidade correspondente, ou seja, os 60% da nota da unidade. 
