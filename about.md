@@ -75,7 +75,7 @@ Além dos dois exercícios escolares regulares, haverá as seguintes avaliaçõe
 - Exame Final, disponível ao aluno(a) que não atinja a  média para aprovação com as notas das duas unidades escolares e satisfaça o critério de nota mínima indicada em resolução da UFPE sobre o tema.
 
 ## Monitoria
-Neste semestre de 2021.2 o curso contará com a colaboração dos monitores Caio Melo e Lucas Cordeiro, que estarão disponiveis para solucionar dúvidas de forma síncrona (ex. via Google Meet) e assíncrona (ex. via e-mail, discord e Google classroom).  A priori, os horários de monitoria sincrona será nos seguintes dias e horários
+Neste semestre de 2021.2 o curso contará com a colaboração dos monitores Caio Melo e Lucas Cordeiro, que estarão disponiveis para solucionar dúvidas de forma síncrona (ex. via Google Meet) e assíncrona (ex. via e-mail, discord e Google classroom).  A priori, as monitoria síncrona serão nos seguintes dias e horários
 - Lucas Cordeiro:  Quintas-feiras- das 14 às 16h 
 - Caio Melo:  Sextas-feiras - de 13 às 15h 
 Estes dias e horários poderão sofrer alterações ao longo do curso de acordo com a demanda das turmas e disponibilidade dos monitores.
