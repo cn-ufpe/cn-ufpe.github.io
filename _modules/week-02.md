@@ -12,7 +12,7 @@ title: Raízes de equações
 : [Método da falsa posição](https://www.youtube.com/watch?v=6DsPCjCwTUQ&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=4&t=40s)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/04_zeros_funcoes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
-: [Método iterativo linear](https://www.youtube.com/watch?v=tNenXg1wmC4&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=5)
+: [Método iterativo linear](https://www.youtube.com/watch?v=af-79fVdeNY&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=8)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/05_zeros_funcoes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 17/02
