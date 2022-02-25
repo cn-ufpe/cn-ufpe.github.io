@@ -77,6 +77,5 @@ Além dos dois exercícios escolares regulares, haverá as seguintes avaliaçõe
 ## Monitoria
 Neste semestre de 2021.2 o curso contará com a colaboração dos monitores Caio Melo e Lucas Cordeiro, que estarão disponiveis para solucionar dúvidas de forma síncrona (ex. via Google Meet) e assíncrona (ex. via e-mail, discord e Google classroom).  A priori, as monitoria síncrona serão nos seguintes dias e horários
 - Lucas Cordeiro:  Quintas-feiras- das 14 às 16h - link do meet [https://meet.google.com/aui-txxw-qkv]
-- Caio Melo:  Sextas-feiras - de 13 às 15h  - link do meet [https://meet.google.com/vsb-gdye-eof]
 
 Estes dias e horários poderão sofrer alterações ao longo do curso de acordo com a demanda das turmas e disponibilidade dos monitores.
