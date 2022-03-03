@@ -15,7 +15,7 @@ title: Sistemas de equações lineares
 : [Aula síncrona](/material/11_metodos_iterativos.html)
 
 03/03
-: [Sistemas de Equações Lineares: Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw)
+: [Sistemas de Equações Lineares: Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw): [Aula síncrona]( https://colab.research.google.com/drive/1tsG1CHNwB21nV4GuvHhUtmmIP4Av35ZV?usp=sharing)
 
 
 08/03
