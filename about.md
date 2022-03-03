@@ -51,7 +51,19 @@ O curso adotará a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aula
     - Google classroom:scnvvmp  
     - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/fgx-qopm-hfw?authuser=1)
     
-- As aulas presenciais serão realizadas nas dependências da Área II UFPE. 
+- As aulas presenciais serão realizadas nas dependências da Área II UFPE, nas seguintes salas. 
+ - Turma T1 (ter 8h-10h / qui 10h-12h) - Prof. André Tiba
+    - Sala: 04
+  - Turma T2 (ter 8h-10h / qui 10h-12h) - Prof. Andson Balieiro
+    - Sala: 05
+  - Turma T4 (ter 8h-10h / qui 10h-12h) - Profa. Jordana Seixas
+    - Sala: 06
+  - Turma T6 (ter 10h-12h / qui 8h-10h) -  Prof. André Tiba
+    - Sala 06 (terça) e Sala 05 (quinta) 
+  - Turma T7 (ter 10h-12h / qui 8h-10h) - Lucas Farias
+    -  Sala 14 (terça) e Sala 09 (quinta)
+  - Turma T8 (ter 10h-12h / qui 8h-10h) - Profa. Jordana Seixas
+    -  Sala 04 (terça) e Sala 12 (quinta)
 ## Recursos
 
 ### Referências
