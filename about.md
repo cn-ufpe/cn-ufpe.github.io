@@ -86,6 +86,14 @@ Além dos dois exercícios escolares regulares, haverá as seguintes avaliaçõe
 - Exame de Segunda Chamada, que pode ser realizado pelo (a) estudante que não realizou UM dos exercicios escolares regulares, satisfaça os critérios indicados em resolução da UFPE sobre o tema e realize a solicitação dentro do prazo estabelecido. A nota obtida neste exame só substitui o componente exercício escolar regular da unidade correspondente, ou seja, os 60% da nota da unidade. 
 - Exame Final, disponível ao aluno(a) que não atinja a  média para aprovação com as notas das duas unidades escolares e satisfaça o critério de nota mínima indicada em resolução da UFPE sobre o tema.
 
+
+A primeira avaliação será realizada no dia 15/03/2022 (terça-feira), no horário 8-10h, de formma presencial, nas dependencias da Área II. As turmas serão dispostas nas salas conforme indicado abaixo.
+- Turmas T1 e T6: Sala 1
+- Turmas T2: Sala 7
+- Turmas T4 e T8: Sala 9
+- Turmas T7: Sala 13
+
+
 ## Monitoria
 Neste semestre de 2021.2 o curso contará com a colaboração dos monitores Caio Melo e Lucas Cordeiro, que estarão disponiveis para solucionar dúvidas de forma síncrona (ex. via Google Meet) e assíncrona (ex. via e-mail, discord e Google classroom).  A priori, as monitoria síncrona serão nos seguintes dias e horários
 - Lucas Cordeiro:  Quintas-feiras- das 14 às 16h - link do meet [https://meet.google.com/aui-txxw-qkv]
