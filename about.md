@@ -100,9 +100,6 @@ Neste sentido, para a realização da prova, o aluno deve apresentar, além de D
 
 Contamos com a colaboração de todos,
 
-Atenciosamente, 
-
-Equipe de Cálculo Numérico.
 ************************************************************************
 
 
