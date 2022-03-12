@@ -88,6 +88,7 @@ Além dos dois exercícios escolares regulares, haverá as seguintes avaliaçõe
 
 ************************************************************************
 INFORMAÇÕES SOBRE A PRIMEIRA AVALIAÇÃO
+
 A primeira avaliação será realizada no dia 15/03/2022 (terça-feira), no horário 8-10h, de formma presencial, nas dependencias da Área II. As turmas serão dispostas nas salas conforme indicado abaixo.
 - Turmas T1 e T6: Sala 1
 - Turmas T2: Sala 7
