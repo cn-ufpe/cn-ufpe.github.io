@@ -93,6 +93,18 @@ A primeira avaliação será realizada no dia 15/03/2022 (terça-feira), no hor�
 - Turmas T4 e T8: Sala 9
 - Turmas T7: Sala 13
 
+************  COMUNICADO IMPORTANTE PARA A PROVA *************
+Conforme é de ciência de todos, a UFPE determinou a obrigatoriedade de apresentação do comprovante de vacinação contra a Covid-19 para entrada dos alunos em sala de aula, conforme Resolução nº 01/2022, publicada no Boletim Oficial nº 16/2022.
+Neste sentido, para a realização da prova, o aluno deve apresentar, além de DOCUMENTO OFICIAL COM FOTO, o COMPROVANTE de VACINAÇÃO CONTRA A COVID-19 (impresso ou digital). Estes documentos serão verificados pelo professor em sala.
+
+Contamos com a colaboração de todos,
+
+Atenciosamente, 
+
+Equipe de Cálculo Numérico.
+************************************************************************
+
+
 
 ## Monitoria
 Neste semestre de 2021.2 o curso contará com a colaboração dos monitores Caio Melo e Lucas Cordeiro, que estarão disponiveis para solucionar dúvidas de forma síncrona (ex. via Google Meet) e assíncrona (ex. via e-mail, discord e Google classroom).  A priori, as monitoria síncrona serão nos seguintes dias e horários
