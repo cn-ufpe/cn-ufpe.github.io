@@ -3,10 +3,10 @@ title: Ajustamento e Interpolação
 ---
 
 22/03
-: [Ajustamento](https://youtu.be/-f3Oxt1dNEs)
+: [Ajustamento](https://youtu.be/-f3Oxt1dNEs) - [Link Colab](https://colab.research.google.com/drive/1TgQBTs3yQfkhjbJQnfdvfXS1WFy_rU1g) 
 
 24/03
-: [Interpolação: Introdução e Polinômio Interpolador de Lagrange](https://youtu.be/vhVfhBO_7-4)
+: [Interpolação: Introdução e Polinômio Interpolador de Lagrange](https://youtu.be/vhVfhBO_7-4)- [Link Colab](https://colab.research.google.com/drive/1xc1XaOCK6TOw_dSpmQmRcXgub-Z6cdjp#scrollTo=2aeGarPbHQp_)
 
 29/03
 : [Interpolação:Polinômios Interpoladores de Newton e de Gregory-Newton](https://youtu.be/1Cc_aHZ4FHs) - [Link Colab](https://colab.research.google.com/drive/1KE880_YeW92Y0PUAZd5MlXYwdMlDPrBr?usp=sharing)
