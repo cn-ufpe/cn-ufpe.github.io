@@ -13,7 +13,6 @@ title: Ajustamento e Interpolação
 
 31/03
 : [Interpolação por partes](https://youtu.be/PDA5wEDVtM4)
-
-      [Spline cúbico](https://www.youtube.com/watch?v=B2M8P9vQUow&t=620s)
+[Spline cúbico](https://www.youtube.com/watch?v=B2M8P9vQUow&t=620s)
 
 
