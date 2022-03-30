@@ -12,7 +12,6 @@ title: Ajustamento e Interpolação
 : [Interpolação:Polinômios Interpoladores de Newton e de Gregory-Newton](https://youtu.be/1Cc_aHZ4FHs)
 
 31/03
-: [Interpolação por partes](https://youtu.be/PDA5wEDVtM4)
-[Spline cúbico](https://www.youtube.com/watch?v=B2M8P9vQUow&t=620s)
+: [Interpolação por partes](https://youtu.be/PDA5wEDVtM4) e [Spline cúbico](https://www.youtube.com/watch?v=B2M8P9vQUow&t=620s)
 
 
