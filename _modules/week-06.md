@@ -8,4 +8,4 @@ title: Gradiente descendente e integração numérica
 
 07/04
 : [Integração numérica: método de Simpson + erros](https://youtu.be/PuoXz6Tlm3o)
-  : [colab](https://colab.research.google.com/drive/1qP3VhjMMyl9kzov8rbtuWVje3ZELC-Za?usp=sharing)
+  : [colab](https://colab.research.google.com/drive/1rfB_vgP7XyZbFnSYF7DgUzWvhc-3awgv#scrollTo=IAsOBonK871hg)
