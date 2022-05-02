@@ -87,9 +87,13 @@ Além dos dois exercícios escolares regulares, haverá as seguintes avaliaçõe
 - Exame Final, disponível ao aluno(a) que não atinja a  média para aprovação com as notas das duas unidades escolares e satisfaça o critério de nota mínima indicada em resolução da UFPE sobre o tema.
 
 ************************************************************************
-INFORMAÇÕES SOBRE A PRIMEIRA AVALIAÇÃO
+INFORMAÇÕES SOBRE A PRIMEIRA E A SEGUNDA AVALIAÇÃO  
 
-A primeira avaliação será realizada no dia 15/03/2022 (terça-feira), no horário 8-10h, de formma presencial, nas dependencias da Área II. As turmas serão dispostas nas salas conforme indicado abaixo.
+A primeira avaliação será realizada no dia 15/03/2022 (terça-feira), no horário 8-10h, de formma presencial, nas dependencias da Área II. 
+
+Já a segunda avaliação será realizada no dia 03/05/2022 (terça-feira), no horário 8-10h, de formma presencial, nas dependencias da Área II. 
+
+Em ambas as avaliações, as turmas serão dispostas nas salas conforme indicado abaixo.
 - Turmas T1 e T6: Sala 1
 - Turmas T2: Sala 7
 - Turmas T4 e T8: Sala 9
