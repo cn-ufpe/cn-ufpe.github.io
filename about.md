@@ -59,10 +59,13 @@ O curso adotará as seguintes referências, mas o(a) estudante é livre para ace
 - [Métodos Numéricos](https://www3.ufpe.br/editora/UFPEbooks/Livro_Texto/metodos_numericos/html5.html?page=0), José Dias dos Santos & Zanoni Carvalho da Silva, Editora Universitária UFPE, 3ª Edição
 
 ### Ambiente de desenvolvimento
+Durante o curso 
+
 Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
 - Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar e entregar as listas de exercício.
 - Para criar a sua conta, siga este [Tutorial](material/Tutorial-LOP-2021.2.pdf). Atente para a forma de cadastro do nome, o email a ser utilizado e o código da sua turma. 
 
+### Comunicação 
 
 ## Avaliação
 O curso utilizará duas unidades avaliativas regulares. A avaliação de cada unidade será composta de duas duas partes com os seguintes pesos:
