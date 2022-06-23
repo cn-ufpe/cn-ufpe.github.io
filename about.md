@@ -84,10 +84,7 @@ Contamos com a sua colaboração/
 
 
 ## Monitoria
-Neste semestre de 2021.2 o curso contará com a colaboração dos monitores Caio Melo e Lucas Cordeiro, que estarão disponiveis para solucionar dúvidas de forma síncrona (ex. via Google Meet) e assíncrona (ex. via e-mail, discord e Google classroom).  A priori, as monitoria síncrona serão nos seguintes dias e horários
-- Lucas Cordeiro:  Quintas-feiras- das 14 às 16h - link do meet [https://meet.google.com/aui-txxw-qkv]
-
-Estes dias e horários poderão sofrer alterações ao longo do curso de acordo com a demanda das turmas e disponibilidade dos monitores.
+Neste semestre de 2022.1 o curso contará com a colaboração dos monitores João Gabriel  e José da Silva, que estarão disponiveis para solucionar dúvidas via Discord, email ou classroom, bem como em encontros de monitorias a serem definidos.  
 
 ## Provas Passadas
 - [2th Avalição de 2021.2 - 03/05/22](https://github.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/CN-Prova-2VA-20212-Gab.pdf)
