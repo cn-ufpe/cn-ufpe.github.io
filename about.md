@@ -27,43 +27,30 @@ Para prover um maior entendimento dos algoritmos, além da apresentação teóri
 ---
 ## Aulas e Dinâmica do Curso
 
-Neste semestre de 2021.2 (jan - maio de 2022) adotaremos uma abordagem com aulas presenciais/remotas (síncronas) e atividades remotas (assínccronas), onde as atividades presenciais ocorrerão de acordo com a liberação e procedimentos da UFPE em face do cenário de pandemia da COVID-19. 
-Conforme decisão tomada pela reitoria da UFPE, [as três semanas inciais de aula serão exclusivamente de atividades remotas (sincronas e assíncronas)](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/ufpe-contara-com-aulas-exclusivamente-remotas-por-tres-semanas-a-partir-do-proximo-dia-31/40615). Como decidido pelo colegiado da área 2, a partir do dia 07/03/2022 as aulas serão em formato presencial.  
-O curso adotará a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aulas gravadas antes das aulas presenciaiso ou remotas-síncronas de modo que as dúvidas que surgirem possam ser sanadas durante o encontro (presencial ou remoto-síncrono). Além das dúvidas, tais encontros tratarão sobre a implementação computacional dos algoritmos em Python, ou seja, a aplicação dos conceitos vistos no material teórico.    
--  As aulas assíncronas (gravadas) serão disponibilizadas na página com o [calendário da disciplina](https://cn-ufpe.github.io/calendar/#calend%C3%A1rio) e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
-- As aulas remotas-síncronas serão realizadas no google meet e google classroom de acordo com cada turma.
-  - Turma T1 (ter 8h-10h / qui 10h-12h) - Prof. André Tiba
-    - Google classroom: w7c2p3m  
-    - Aulas síncronas: [https://meet.google.com/lookup/ffi2dfpq2y](https://classroom.google.com/c/NDU4NDU2MTQ5NDI3?cjc=w7c2p3m)
-  - Turma T2 (ter 8h-10h / qui 10h-12h) - Prof. Andson Balieiro
-    - Google classroom: 2kv63bn
-    - Link do classroom: [https://meet.google.com/lookup/giajrdz7fe?authuser=2&hs=179](https://classroom.google.com/c/NDU4NDUzNjkzNDQy?cjc=2kv63bn)
+Neste semestre de 2022.1 (junho - novembro de 2022) as aulas serão presenciais, nas dependências da Área II da UFPE.  
+O curso adotará a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aulas gravadas antes das aulas de modo que as dúvidas que surgirem possam ser sanadas durante o encontro. Além das dúvidas, tais aencontros tratarão sobre exercícios e a implementação computacional dos algoritmos em Python, ou seja, a aplicação dos conceitos vistos no material teórico.    
+-  As aulas gravadas serão disponibilizadas na página com o [calendário da disciplina](https://cn-ufpe.github.io/calendar/#calend%C3%A1rio) e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
+- Este semestre, as turmas estão distribuídas da seguinte forma.
+  - Turma T1 (ter 8h-10h / qui 10h-12h) - Prof. Lucas Farias
+    - Sala:
+    - Google classroom:   
+  - Turma T2 (ter 8h-10h / qui 10h-12h) - Profa. Maíra Santana
+    - Sala:
+    - Google classroom: 
   - Turma T4 (ter 8h-10h / qui 10h-12h) - Profa. Jordana Seixas
-    - Google classroom:sqigzgc 
-    - Aulas síncronas: [https://meet.google.com/rhq-dmbi-unt](https://meet.google.com/qze-debr-rcu?authuser=1&pli=1)
-  - Turma T6 (ter 10h-12h / qui 8h-10h) -  Prof. André Tiba
-    - Google classroom:aspy7do 
-    - Link do Classroom: [https://meet.google.com/lookup/d5hhdqdq33]( https://classroom.google.com/c/NDU4NDU2MTQ5NTcw?cjc=aspy7do)
+    - Sala:
+    - Google classroom: 
+  - Turma T6 (ter 10h-12h / qui 8h-10h) -  Prof. Andson Balieiro 
+    - Sala:
+    - Google classroom: 
   - Turma T7 (ter 10h-12h / qui 8h-10h) - Lucas Farias
-    - Google classroom: p6gtffy
-    - Link do classroom: [https://meet.google.com/sun-vdhp-pqd](https://classroom.google.com/c/NDU4NDU0MDAyMDg1?cjc=p6gtffy)
+    - Sala:
+    - Google classroom: 
   - Turma T8 (ter 10h-12h / qui 8h-10h) - Profa. Jordana Seixas
-    - Google classroom:scnvvmp  
-    - Aulas síncronas: [https://meet.google.com/eyd-mpvr-roa](https://meet.google.com/fgx-qopm-hfw?authuser=1)
-    
-- As aulas presenciais serão realizadas nas dependências da Área II UFPE, nas seguintes salas. 
- - Turma T1 (ter 8h-10h / qui 10h-12h) - Prof. André Tiba
-    - Sala: 04
-  - Turma T2 (ter 8h-10h / qui 10h-12h) - Prof. Andson Balieiro
-    - Sala: 05
-  - Turma T4 (ter 8h-10h / qui 10h-12h) - Profa. Jordana Seixas
-    - Sala: 06
-  - Turma T6 (ter 10h-12h / qui 8h-10h) -  Prof. André Tiba
-    - Sala 06 (terça) e Sala 05 (quinta) 
-  - Turma T7 (ter 10h-12h / qui 8h-10h) - Lucas Farias
-    -  Sala 14 (terça) e Sala 09 (quinta)
-  - Turma T8 (ter 10h-12h / qui 8h-10h) - Profa. Jordana Seixas
-    -  Sala 04 (terça) e Sala 12 (quinta)
+    - Sala:
+    - Google classroom: 
+ 
+
 ## Recursos
 
 ### Referências
