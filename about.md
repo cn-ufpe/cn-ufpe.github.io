@@ -58,49 +58,29 @@ O curso adotará as seguintes referências, mas o(a) estudante é livre para ace
 - Ruggiero, Márcia A. Gomes, and Vera Lúcia da Rocha Lopes. Cálculo numérico: aspectos teóricos e computacionais. Makron Books do Brasil, 1997.
 - [Métodos Numéricos](https://www3.ufpe.br/editora/UFPEbooks/Livro_Texto/metodos_numericos/html5.html?page=0), José Dias dos Santos & Zanoni Carvalho da Silva, Editora Universitária UFPE, 3ª Edição
 
-### Ambiente de desenvolvimento
-Durante o curso 
-
+### Ambiente de desenvolvimento, Comunicação e Interação
+Durante o curso, utilizaremos o Google Clasroom para disposição de material adicional e suporte para cada turma e um canal no [Discord](https://discord.com/) cobrindo todas as turmas para auxiliar na comunicação  e solução de dúvidas de forma mais ágil.  
+Para a exibição e implementação dos métodos númericos em Python, o [Google Colab] (https://colab.research.google.com/) será utilizado. É uma ferramente online, acessada via browser, e que não demanda de instalação de nenhum software no computador.  
 Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
 - Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar e entregar as listas de exercício.
 - Para criar a sua conta, siga este [Tutorial](material/Tutorial-LOP-2021.2.pdf). Atente para a forma de cadastro do nome, o email a ser utilizado e o código da sua turma. 
 
-### Comunicação 
-
-## Avaliação
-O curso utilizará duas unidades avaliativas regulares. A avaliação de cada unidade será composta de duas duas partes com os seguintes pesos:
+## Avaliação e Datas de Provas
+O curso utilizará três unidades avaliativas regulares. A avaliação de cada unidade será composta de duas duas partes com os seguintes pesos:
 - Listas de exercícios (40% da nota)
 - Exercício escolar regular (60% da nota)
 
-Além dos dois exercícios escolares regulares, haverá as seguintes avaliações adicionais, caso sejam necessárias:
+Além dos três exercícios escolares regulares, haverá as seguintes avaliações adicionais, caso sejam necessárias:
 - Exame de Segunda Chamada, que pode ser realizado pelo (a) estudante que não realizou UM dos exercicios escolares regulares, satisfaça os critérios indicados em resolução da UFPE sobre o tema e realize a solicitação dentro do prazo estabelecido. A nota obtida neste exame só substitui o componente exercício escolar regular da unidade correspondente, ou seja, os 60% da nota da unidade. 
 - Exame Final, disponível ao aluno(a) que não atinja a  média para aprovação com as notas das duas unidades escolares e satisfaça o critério de nota mínima indicada em resolução da UFPE sobre o tema.
-
-************************************************************************
-INFORMAÇÕES SOBRE A PRIMEIRA E A SEGUNDA AVALIAÇÃO  
-
-A primeira avaliação será realizada no dia 15/03/2022 (terça-feira), no horário 8-10h, de formma presencial, nas dependencias da Área II. 
-
-Já a segunda avaliação será realizada no dia 03/05/2022 (terça-feira), no horário 8-10h, de formma presencial, nas dependencias da Área II. 
-
-Em ambas as avaliações, as turmas serão dispostas nas salas conforme indicado abaixo.
-- Turmas T1 e T6: Sala 1
-- Turmas T2: Sala 7
-- Turmas T4 e T8: Sala 9
-- Turmas T7: Sala 13
+- 
 
 
-************************************************************************
-
-COMUNICADO IMPORTANTE PARA A PROVA  -  COMPROVANTE VACINAL CONTRA A COVID-19
+## Medidas de Segurança contra a COVID-19
 
 Conforme é de ciência de todos, a UFPE determinou a obrigatoriedade de apresentação do comprovante de vacinação contra a Covid-19 para entrada dos alunos em sala de aula, conforme Resolução nº 01/2022, publicada no Boletim Oficial nº 16/2022.
-Neste sentido, para a realização da prova, o aluno deve apresentar, além de DOCUMENTO OFICIAL COM FOTO, o COMPROVANTE de VACINAÇÃO CONTRA A COVID-19 (impresso ou digital). Estes documentos serão verificados pelo professor em sala.
 
-Contamos com a colaboração de todos,
-
-************************************************************************
-
+Contamos com a sua colaboração/
 
 
 ## Monitoria
