@@ -15,12 +15,14 @@ title: Sistemas de equações lineares
 09/08
 : [Gaus-Seidel e Jacobi](https://youtu.be/3rMYV9gI2UA)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/11_metodos_iterativos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
-: [Aula síncrona](/material/11_metodos_iterativos.html)
+ 
 
 
 
 11/08
-: [Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw): [Aula Colab]( https://colab.research.google.com/drive/1tsG1CHNwB21nV4GuvHhUtmmIP4Av35ZV?usp=sharing)
+: [Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw): <a href=" https://colab.research.google.com/drive/1tsG1CHNwB21nV4GuvHhUtmmIP4Av35ZV?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
+:[Aula Colab]( https://colab.research.google.com/drive/1tsG1CHNwB21nV4GuvHhUtmmIP4Av35ZV?usp=sharing)
 
 
 
