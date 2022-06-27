@@ -2,7 +2,7 @@
 title: Avaliação
 ---
 19/07
-Prática de Programação/Exercício
+: Prática de Programação/Exercício
 
 21/07
 : Revisão
