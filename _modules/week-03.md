@@ -6,8 +6,8 @@ title: Sistemas de equações lineares
 : [Sistemas de equações lineares: Eliminação de Gauss com e sem Pivoteamento](https://youtu.be/FKPrlNHqwT0)
 : [Aula Colab](/material/09_eliminacao_gaussiana.html)
 
-  [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8)
-    :[Aula Colab]</material/10_pivoteamento.html)  
+: [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8)
+: [Aula Colab]</material/10_pivoteamento.html)  
     
 04/08
 : [Fatoração LU](https://youtu.be/MG4Ek9niGTA) e [Cholesky](https://youtu.be/bXoGSTBlT5M): 
