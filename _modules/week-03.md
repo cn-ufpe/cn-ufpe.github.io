@@ -22,6 +22,6 @@ title: Sistemas de equações lineares
 11/08
 : [Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw): <a href= "https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/Aula_crit_conver_mal_condicionamento.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
-:[Aula Colab]( https://colab.research.google.com/drive/1tsG1CHNwB21nV4GuvHhUtmmIP4Av35ZV?usp=sharing)
+
 
 
