@@ -7,7 +7,7 @@ title: Sistemas de equações lineares
 : [Aula Colab](/material/09_eliminacao_gaussiana.html)
 
 : [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8)
-: [Aula Colab]</material/10_pivoteamento.html)  
+: [Aula Colab](/material/10_pivoteamento.html)  
     
 04/08
 : [Fatoração LU](https://youtu.be/MG4Ek9niGTA) e [Cholesky](https://youtu.be/bXoGSTBlT5M): 
