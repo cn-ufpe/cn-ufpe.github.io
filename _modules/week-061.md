@@ -1,9 +1,6 @@
 ---
-title: Ajustamento e Interpolação
+title: Interpolação
 ---
-
-16/08
-: [Ajustamento](https://youtu.be/-f3Oxt1dNEs) - [Link Colab](https://colab.research.google.com/drive/1TgQBTs3yQfkhjbJQnfdvfXS1WFy_rU1g) 
 
 18/08
 : [Interpolação: Introdução e Polinômio Interpolador de Lagrange](https://youtu.be/vhVfhBO_7-4)- [Link Colab](https://colab.research.google.com/drive/1xc1XaOCK6TOw_dSpmQmRcXgub-Z6cdjp#scrollTo=2aeGarPbHQp_)
