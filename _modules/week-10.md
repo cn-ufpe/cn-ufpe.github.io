@@ -9,7 +9,8 @@ title: Equações diferenciais ordinárias
   [Método de Euler](https://youtu.be/_jiJUJQM3ls)
 
 22/09
-: [Método de Euler modificado](https://youtu.be/LGsBDyYvHcs) -[Colab](https://colab.research.google.com/drive/1kKAlJtTHW98begJTCqwfaRaR5cQbKSkF?usp=sharing)
-
+: [Método de Euler modificado](https://youtu.be/LGsBDyYvHcs)
+  :<a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/EDO_Euler_Sim_e_Mod_.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+  
 27/09
 : EDO: EDOs de ordem superior + Exemplos
