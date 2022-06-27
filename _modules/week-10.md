@@ -3,8 +3,9 @@ title: Equações diferenciais ordinárias
 ---
 
 20/09
-: [Equações diferenciais ordinárias](https://youtu.be/XS9ZGhBd51w)- [Colab](https://colab.research.google.com/drive/1kKAlJtTHW98begJTCqwfaRaR5cQbKSkF?usp=sharing)
-
+: [Equações diferenciais ordinárias](https://youtu.be/XS9ZGhBd51w)
+  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/EDO_Euler_Sim_e_Mod_.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+  
   [Método de Euler](https://youtu.be/_jiJUJQM3ls)
 
 22/09
