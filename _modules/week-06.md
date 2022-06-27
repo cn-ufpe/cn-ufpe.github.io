@@ -1,5 +1,5 @@
 ---
-title: Gradiente descendente e integração numérica
+title: Integração numérica
 ---
 
 13/09
