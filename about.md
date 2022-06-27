@@ -73,7 +73,6 @@ O curso utilizará três unidades avaliativas regulares. A avaliação de cada u
 Além dos três exercícios escolares regulares, haverá as seguintes avaliações adicionais, caso sejam necessárias:
 - Exame de Segunda Chamada, que pode ser realizado pelo (a) estudante que não realizou UM dos exercicios escolares regulares, satisfaça os critérios indicados em resolução da UFPE sobre o tema e realize a solicitação dentro do prazo estabelecido. A nota obtida neste exame só substitui o componente exercício escolar regular da unidade correspondente, ou seja, os 60% da nota da unidade. 
 - Exame Final, disponível ao aluno(a) que não atinja a  média para aprovação com as notas das duas unidades escolares e satisfaça o critério de nota mínima indicada em resolução da UFPE sobre o tema.
-- 
 
 
 ## Medidas de Segurança contra a COVID-19
@@ -84,7 +83,7 @@ Contamos com a sua colaboração/
 
 
 ## Monitoria
-Neste semestre de 2022.1 o curso contará com a colaboração dos monitores João Gabriel  e José da Silva, que estarão disponiveis para solucionar dúvidas via Discord, email ou classroom, bem como em encontros de monitorias a serem definidos.  
+Neste semestre de 2022.1 o curso contará com a colaboração do monitore João Gabriel, que estará disponivel para solucionar dúvidas via Discord, email ou classroom, bem como em encontros de monitorias a serem definidos.  
 
 ## Provas Passadas
 - [2th Avalição de 2021.2 - 03/05/22](https://github.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/CN-Prova-2VA-20212-Gab.pdf)
