@@ -11,7 +11,7 @@ title: Sistemas de equações lineares
     
 04/08
 : [Fatoração LU](https://youtu.be/MG4Ek9niGTA) e [Cholesky](https://youtu.be/bXoGSTBlT5M): 
-Aula Síncrona:<a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_fatoracao.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+Aula Colab:<a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_fatoracao.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 
 09/08
@@ -20,7 +20,7 @@ Aula Síncrona:<a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob
 : [Aula síncrona](/material/11_metodos_iterativos.html)
 
 11/08
-: [Sistemas de Equações Lineares: Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw): [Aula síncrona]( https://colab.research.google.com/drive/1tsG1CHNwB21nV4GuvHhUtmmIP4Av35ZV?usp=sharing)
+: [Sistemas de Equações Lineares: Convergência e Mal Condicionamento](https://youtu.be/87pkkBm2exw): [Aula Colab]( https://colab.research.google.com/drive/1tsG1CHNwB21nV4GuvHhUtmmIP4Av35ZV?usp=sharing)
 
 
 
