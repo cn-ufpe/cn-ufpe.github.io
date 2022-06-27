@@ -3,10 +3,7 @@ title: Sistemas de equações lineares
 ---
 
 02/08
-: [Eliminação de Gauss com e sem Pivoteamento](https://youtu.be/FKPrlNHqwT0)
-: [Aula Colab](/material/09_eliminacao_gaussiana.html)
-
-<a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/09_eliminacao_gaussiana.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+: [Eliminação de Gauss com e sem Pivoteamento](https://youtu.be/FKPrlNHqwT0): <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/09_eliminacao_gaussiana.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 : [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8): <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/10_pivoteamento.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
