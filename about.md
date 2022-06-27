@@ -60,10 +60,10 @@ O curso adotará as seguintes referências, mas o(a) estudante é livre para ace
 
 ### Ambiente de desenvolvimento, Comunicação e Interação
 Durante o curso, utilizaremos o Google Clasroom para disposição de material adicional e suporte para cada turma e um canal no [Discord](https://discord.com/) cobrindo todas as turmas para auxiliar na comunicação  e solução de dúvidas de forma mais ágil.  
-Para a exibição e implementação dos métodos númericos em Python, o [Google Colab] (https://colab.research.google.com/) será utilizado. É uma ferramente online, acessada via browser, e que não demanda de instalação de nenhum software no computador.  
-Não será necessário instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular.
+Para a exibição e implementação dos métodos númericos em Python, o [Google Colab] (https://colab.research.google.com/) será utilizado. É uma ferramente online, acessada via browser, não demandando a instalação de nenhum software no computador.  
+Para a submissão das atividades de implementação dos métodos numéricos (listas de exercícios), utilizaremos a plataforma online LoP Alpha, que também não necessita instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular. Para seu uso: 
 - Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar e entregar as listas de exercício.
-- Para criar a sua conta, siga este [Tutorial](material/Tutorial-LOP-2021.2.pdf). Atente para a forma de cadastro do nome, o email a ser utilizado e o código da sua turma. 
+- Para criar a sua conta, siga este [Tutorial](material/Tutorial-LOP-2022.1.pdf). Atente para a forma de cadastro do nome, o email a ser utilizado e o código da sua turma. 
 
 ## Avaliação e Datas de Provas
 O curso utilizará três unidades avaliativas regulares. A avaliação de cada unidade será composta de duas duas partes com os seguintes pesos:
