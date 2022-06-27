@@ -6,12 +6,12 @@ title: Sistemas de equações lineares
 : [Eliminação de Gauss com e sem Pivoteamento](https://youtu.be/FKPrlNHqwT0)
 : [Aula Colab](/material/09_eliminacao_gaussiana.html)
 
-: [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8)
+: [Pivoteamento parcial](https://youtu.be/6-iBXVomqb8): <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/10_pivoteamento.html" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
 : [Aula Colab](/material/10_pivoteamento.html)  
     
 04/08
-: [Fatoração LU](https://youtu.be/MG4Ek9niGTA) e [Cholesky](https://youtu.be/bXoGSTBlT5M): 
-Aula Colab:<a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_fatoracao.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+: [Fatoração LU](https://youtu.be/MG4Ek9niGTA) e [Cholesky](https://youtu.be/bXoGSTBlT5M): <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/12_fatoracao.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 
 09/08
