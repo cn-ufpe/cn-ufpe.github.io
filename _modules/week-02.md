@@ -7,6 +7,8 @@ title: Raízes de equações
 
 : [Método da bisseção](https://www.youtube.com/watch?v=5wDrXBE0ULc&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=3)
    :[Colab](/material/03_zeros_funcoes.html)
+   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/03_zeros_funcoes.html" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
 
 12/07
 : [Método da falsa posição](https://www.youtube.com/watch?v=6DsPCjCwTUQ&list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD&index=4&t=40s)
