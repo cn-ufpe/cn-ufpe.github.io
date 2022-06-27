@@ -2,16 +2,19 @@
 title: Avaliação
 ---
 
-28/04
-: Revisão
+29/09
+: Prática de Programação/Exercício
 
-03/05
-: Segundo exercício escolar
+04/10
+: Revisão para a Prova
+
+11/10
+: Terceiro exercício escolar
 
 
-11/05
+18/10
 : Segunda Chamada
 
-17/05
+25/10
 : Exercício Final
  
