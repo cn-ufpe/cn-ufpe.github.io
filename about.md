@@ -32,22 +32,22 @@ O curso adotará a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aula
 -  As aulas gravadas serão disponibilizadas na página com o [calendário da disciplina](https://cn-ufpe.github.io/calendar/#calend%C3%A1rio) e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
 - Este semestre, as turmas estão distribuídas da seguinte forma.
   - Turma T1 (ter 8h-10h / qui 10h-12h) - Prof. Lucas Farias
-    - Sala:
+    - Sala:  04 (terca) / 05 (quinta)
     - Google classroom:   
   - Turma T2 (ter 8h-10h / qui 10h-12h) - Profa. Maíra Santana
-    - Sala:
+    - Sala: 06 (terca) / 04 (quinta)
     - Google classroom: 
   - Turma T4 (ter 8h-10h / qui 10h-12h) - Profa. Jordana Seixas
-    - Sala:
+    - Sala:  08 (terca) / 12 (quinta)
     - Google classroom: 
   - Turma T6 (ter 10h-12h / qui 8h-10h) -  Prof. Andson Balieiro 
-    - Sala:
-    - Google classroom: 
+    - Sala: 14 (terca) / 11 (quinta)
+    - Google classroom: 2kv63bn
   - Turma T7 (ter 10h-12h / qui 8h-10h) - Lucas Farias
-    - Sala:
+    - Sala:  11 (terca) / 09 (quinta)
     - Google classroom: 
   - Turma T8 (ter 10h-12h / qui 8h-10h) - Profa. Jordana Seixas
-    - Sala:
+    - Sala:  01 (terca) / 15 (quinta)
     - Google classroom: 
  
 
