@@ -13,4 +13,4 @@ title: Apresentação da Disciplina e Programação com python
 : [Matrizes com python](https://youtu.be/FgXrDIAlwpk)
   :  <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/08_matrizes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
   
-  [material](/material/08_matrizes.html)
+
