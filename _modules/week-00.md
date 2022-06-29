@@ -10,7 +10,7 @@ title: Apresentação da Disciplina e Programação com python
 : [Introdução ao python](https://youtu.be/yXdaZLClHGk)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/00_lista_python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
     
-: [Matrizes com python](https://youtu.be/FgXrDIAlwpk)
+ [Matrizes com python](https://youtu.be/FgXrDIAlwpk)
   :  <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/08_matrizes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
   
 
