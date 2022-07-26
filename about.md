@@ -87,5 +87,5 @@ Neste semestre de 2022.1 o curso contará com a colaboração do monitore João 
 
 ## Provas Passadas
 - [Segunda Avalição de 2021.2 - 03/05/22](https://github.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/CN-Prova-2VA-20212-Gab.pdf)
-- [Primeira Avalição de 2022.1 - 26/07/22 - Tipo A ](https://github.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/CN_1EE_2022.1-TipoA.pdf)
-- [Primeira Avalição de 2022.1 - 26/07/22 - Tipo B ](https://github.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/CN_1EE_2022.1-TipoB.pdf)
+- [Primeira Avalição de 2022.1 - 26/07/22 - Tipo A ](https://github.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/CN_1EE_2022.1-TipoA.pdf)-[Gabarito]()
+- [Primeira Avalição de 2022.1 - 26/07/22 - Tipo B ](https://github.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/CN_1EE_2022.1-TipoB.pdf)-[Gabarito]()
