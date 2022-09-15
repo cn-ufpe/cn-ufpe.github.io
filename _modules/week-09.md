@@ -10,4 +10,4 @@ title: Integração numérica
 
 15/09
 : [Integração numérica: método de Simpson + erros](https://youtu.be/PuoXz6Tlm3o)
-  : [colab](https://colab.research.google.com/drive/1rfB_vgP7XyZbFnSYF7DgUzWvhc-3awgv#scrollTo=IAsOBonK871hg)
+  : [colab](https://colab.research.google.com/drive/1vd1pNz_JVwYypLosrYGuDjjFZNtFSHwb#scrollTo=IXUmEC1UfMbE)
