@@ -10,7 +10,7 @@ title: Equações diferenciais ordinárias
 
 22/09
 : [Método de Euler modificado e Runge-Kutta](https://youtu.be/LGsBDyYvHcs)
-  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/EDO_Euler_Sim_e_Mod_.ipynb" target="_parent"><img src="https://colab.research.google.com/drive/17evhEZrXq7TnmN_TiQuRq_d90YzDnuXB?usp=sharing" alt="Open in Colab" /></a>
+  : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/EDO_Euler_Sim_e_Mod_.ipynb" target="_parent"><img src="https://colab.research.google.com/drive/1r7PXcHjOVFbDyDlPMFbhVY_4ldD17lgY?usp=sharing" alt="Open in Colab" /></a>
   
 27/09
 : EDO: EDOs de ordem superior + Exemplos
