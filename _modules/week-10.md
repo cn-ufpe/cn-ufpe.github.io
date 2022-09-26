@@ -9,7 +9,7 @@ title: Equações diferenciais ordinárias
   [Método de Euler](https://youtu.be/_jiJUJQM3ls)
 
 22/09
-: [Método de Euler modificado](https://youtu.be/LGsBDyYvHcs)
+: [Método de Euler modificado e Runge-Kutta](https://youtu.be/LGsBDyYvHcs)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/EDO_Euler_Sim_e_Mod_.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
   
 27/09
