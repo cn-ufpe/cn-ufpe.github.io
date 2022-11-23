@@ -27,27 +27,27 @@ Para prover um maior entendimento dos algoritmos, além da apresentação teóri
 ---
 ## Aulas e Dinâmica do Curso
 
-Neste semestre de 2022.1 (junho - novembro de 2022) as aulas serão presenciais, nas dependências da Área II da UFPE.  
+Neste semestre de 2022.2 (novembro 2022 - maio 2023) as aulas serão presenciais, nas dependências da Área II da UFPE.  
 O curso adotará a seguinte dinâmica: o(a) aluno(a) deve assitir as vídeo-aulas gravadas antes das aulas de modo que as dúvidas que surgirem possam ser sanadas durante o encontro. Além das dúvidas, tais aencontros tratarão sobre exercícios e a implementação computacional dos algoritmos em Python, ou seja, a aplicação dos conceitos vistos no material teórico.    
 -  As aulas gravadas serão disponibilizadas na página com o [calendário da disciplina](https://cn-ufpe.github.io/calendar/#calend%C3%A1rio) e no [canal](https://www.youtube.com/playlist?list=PL__joaA2Kg3FYyN7k_ueF8MuYsTauaoBD) da disciplina.
 - Este semestre, as turmas estão distribuídas da seguinte forma.
-  - Turma T1 (ter 8h-9:40h / qui 10h-12h) - Prof. Lucas Farias
-    - Sala:  04 (terca) / 05 (quinta)
+  - Turma T1 (ter 8h-9:40h / qui 10h-12h) - Prof. José Paulo da Silva Lima
+    - Sala:    (terca) /   (quinta)
     - Google classroom:   
-  - Turma T2 (ter 8h-9:40h / qui 10h-12h) - Profa. Maíra Santana
-    - Sala: 06 (terca) / 04 (quinta)
+  - Turma T2 (ter 8h-9:40h / qui 10h-12h) - Prof. Lucas Farias  
+    - Sala:   (terca) /   (quinta)
     - Google classroom: 
   - Turma T4 (ter 8h-9:40h / qui 10h-12h) - Profa. Jordana Seixas
-    - Sala:  08 (terca) / 12 (quinta)
+    - Sala:    (terca) /   (quinta)
     - Google classroom: 
-  - Turma T6 (ter 10h-12h / qui 8h-9:40h) -  Prof. Andson Balieiro 
-    - Sala: 14 (terca) / 11 (quinta)
-    - Google classroom: 2kv63bn
-  - Turma T7 (ter 10h-12h / qui 8h-9:40h) - Lucas Farias
-    - Sala:  11 (terca) / 09 (quinta)
+  - Turma T6 (ter 10h-12h / qui 8h-9:40h) -  Prof. José Paulo da Silva Lima
+    - Sala:   (terca) /   (quinta)
+    - Google classroom:  
+  - Turma T7 (ter 10h-12h / qui 8h-9:40h) - Profs. Andson Balieiro e Maíra Santanta
+    - Sala:    (terca) /  (quinta)
     - Google classroom: 
   - Turma T8 (ter 10h-12h / qui 8h-9:40h) - Profa. Jordana Seixas
-    - Sala:  01 (terca) / 15 (quinta)
+    - Sala:    (terca) /  (quinta)
     - Google classroom: 
  
 
