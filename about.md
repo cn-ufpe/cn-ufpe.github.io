@@ -83,7 +83,7 @@ Contamos com a sua colaboração/
 
 
 ## Monitoria
-Neste semestre de 2022.1 o curso contará com a colaboração do monitore João Gabriel, que estará disponivel para solucionar dúvidas via Discord, email ou classroom, bem como em encontros de monitorias a serem definidos.  
+Neste semestre de 2022.2 o curso contará com a colaboração do monitor Hierlan Alamo Batista,que estará disponivel para solucionar dúvidas via Discord, email ou classroom, bem como em encontros de monitorias a serem definidos.  
 
 ## Provas Passadas
 - [Primeira Avalição de 2021.2 - 15/03/22 com Gabarito](https://github.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/Prova_CN_1AVA_2021_2.pdf)
