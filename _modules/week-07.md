@@ -1,12 +1,12 @@
 ---
 title: Avaliação
 ---
-23/08
+07/03
 : Prática de Programação/Exercício
 
-25/08
+09/03
 : Revisão para a prova
 
-30/08
+14/03
 : Segundo exercício escolar
  
