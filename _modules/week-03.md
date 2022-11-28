@@ -1,12 +1,15 @@
 ---
 title: Avaliação
 ---
-19/07
+22/12
+: Revisão para a prova
+
+27/12
 : Prática de Programação/Exercício
 
-21/07
-: Revisão
+29/12
+: Exerícios de Revisão
 
-26/07
+31/01
 : Primeiro exercício escolar
  
