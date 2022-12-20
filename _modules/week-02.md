@@ -20,5 +20,5 @@ title: Raízes de equações
 : [Método de Newton](https://www.youtube.com/watch?v=LmNxbJ35WCw)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/06_zeros_funcoes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
-: [Método das secantes](https://youtu.be/6n_-w3gjXDA)
+: [Método das secantes](https://www.youtube.com/watch?v=Fc6XSl6agyw)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/07_zeros_funcoes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
