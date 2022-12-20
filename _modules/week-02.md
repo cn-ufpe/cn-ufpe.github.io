@@ -17,7 +17,7 @@ title: Raízes de equações
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/05_zeros_funcoes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 20/12
-: [Método de Newton](https://youtu.be/ylgheMAoVso)
+: [Método de Newton](https://www.youtube.com/watch?v=LmNxbJ35WCw)
   : <a href="https://githubtocolab.com/cn-ufpe/cn-ufpe.github.io/blob/master/material/06_zeros_funcoes.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 : [Método das secantes](https://youtu.be/6n_-w3gjXDA)
