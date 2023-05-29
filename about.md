@@ -59,7 +59,7 @@ O curso adotará as seguintes referências, mas o(a) estudante é livre para ace
 - [Métodos Numéricos](https://www3.ufpe.br/editora/UFPEbooks/Livro_Texto/metodos_numericos/html5.html?page=0), José Dias dos Santos & Zanoni Carvalho da Silva, Editora Universitária UFPE, 3ª Edição
 
 ### Ambiente de desenvolvimento, Comunicação e Interação
-Durante o curso, utilizaremos o Google Clasroom para disposição de material adicional e suporte para cada turma e um canal no [Discord]([https://discord.com/](https://discord.gg/Wm9j7grSuq)) cobrindo todas as turmas para auxiliar na comunicação  e solução de dúvidas de forma mais ágil.  
+Durante o curso, utilizaremos o Google Clasroom para disposição de material adicional e suporte para cada turma e um canal no [Discord](https://discord.gg/Wm9j7grSuq) cobrindo todas as turmas para auxiliar na comunicação  e solução de dúvidas de forma mais ágil.  
 Para a exibição e implementação dos métodos númericos em Python, o [Google Colab] (https://colab.research.google.com/) será utilizado. É uma ferramente online, acessada via browser, não demandando a instalação de nenhum software no computador.  
 Para a submissão das atividades de implementação dos métodos numéricos (listas de exercícios), utilizaremos a plataforma online LoP Alpha, que também não necessita instalar softwares no seu computador pessoal e os recursos também podem ser acessados através de tablet ou celular. Para seu uso: 
 - Será necessário criar uma conta no [LoP Alpha](https://lop.natalnet.br/) para realizar e entregar as listas de exercício.
